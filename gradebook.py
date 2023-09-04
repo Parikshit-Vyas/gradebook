@@ -1,13 +1,4 @@
-"""Calculate student grades by combining data from many sources.
 
-Using Pandas, this script combines data from the:
-
-* Roster
-* Homework & Exam grades
-* Quiz grades
-
-to calculate final grades for a class.
-"""
 from pathlib import Path
 import pandas as pd
 import numpy as np
